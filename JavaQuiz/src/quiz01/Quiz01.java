@@ -16,20 +16,8 @@ public class Quiz01 {
 		System.out.println(c+1);						// 66
 		System.out.println(++c); 						// B
 		System.out.println(c++); 						// B -> ++가 뒤에 붙으면 대입 후 연산. 그 전 값이 66 B 였으므로  println 에는 66으로 대입 후 67이 된다.
-		System.out.println(c);  						// A -> C가 된다.
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println(c);  						// A -> C가 된다.	
+
 	}
 }
