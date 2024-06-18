@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAPI/JavaAPI.iml" filepath="$PROJECT_DIR$/JavaAPI/JavaAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAlgorithm/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/JavaAlgorithm/JavaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodingtest/JavaCodingtest.iml" filepath="$PROJECT_DIR$/JavaCodingtest/JavaCodingtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMyProjects/JavaMyProjects.iml" filepath="$PROJECT_DIR$/JavaMyProjects/JavaMyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaObject/JavaObject.iml" filepath="$PROJECT_DIR$/JavaObject/JavaObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-study.iml" filepath="$PROJECT_DIR$/java-study.iml" />
+    </modules>
+  </component>
+</project>
